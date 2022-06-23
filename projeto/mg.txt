@@ -1,0 +1,18 @@
+  __  __                      _     _        _____      _         _ _           
+ |  \/  |                    | |   (_)      / ____|    (_)       | (_)          
+ | \  / | ___ _ __ ___  _ __ | |__  _ ___  | |  __ _ __ _ _______| |_  ___  ___ 
+ | |\/| |/ _ \ '_ ` _ \| '_ \| '_ \| / __| | | |_ | '__| |_  /_  / | |/ _ \/ __|
+ | |  | |  __/ | | | | | |_) | | | | \__ \ | |__| | |  | |/ / / /| | |  __/\__ \
+ |_|  |_|\___|_| |_| |_| .__/|_| |_|_|___/  \_____|_|  |_/___/___|_|_|\___||___/
+                       | |                                                      
+                       |_| 
+
+O Memphis Grizzlies é um time de basquete da National Basketball Association (NBA) com sede em Memphis, Tennessee.
+Os Grizzlies competem na National Basketball Association (NBA) como membros da divisão sudoeste da conferencia Oeste.
+
+Ano de fundação: 1995
+Arena: FedExForum
+Presidente: Jason Wexler
+Cores da equipe: Azul , Branco e Amarelo
+Campeonatos: 0
+Titulos de divisão: 1 (2022)                                                    

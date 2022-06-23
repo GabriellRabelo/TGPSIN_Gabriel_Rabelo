@@ -1,0 +1,17 @@
+  __  __ _                             _          _______ _           _                             _                
+ |  \/  (_)                           | |        |__   __(_)         | |                           | |               
+ | \  / |_ _ __  _ __   ___  ___  ___ | |_ __ _     | |   _ _ __ ___ | |__   ___ _ ____      _____ | |_   _____  ___ 
+ | |\/| | | '_ \| '_ \ / _ \/ __|/ _ \| __/ _` |    | |  | | '_ ` _ \| '_ \ / _ \ '__\ \ /\ / / _ \| \ \ / / _ \/ __|
+ | |  | | | | | | | | |  __/\__ \ (_) | || (_| |    | |  | | | | | | | |_) |  __/ |   \ V  V / (_) | |\ V /  __/\__ \
+ |_|  |_|_|_| |_|_| |_|\___||___/\___/ \__\__,_|    |_|  |_|_| |_| |_|_.__/ \___|_|    \_/\_/ \___/|_| \_/ \___||___/
+
+
+O Minnesota Timberwolves é um time de basquete profissional americano com sede em Minneapolis.
+Os Timberwolves competem na National Basketball Association (NBA) como membro da Divisão Noroeste da Conferência Oeste.
+
+Ano de fundação: 1989
+Arena: Target Center
+Presidente: Sachin Gupta
+Cores do time: Azul , Preto , Prata , Verde e Branco
+Campeonatos: 0
+Titulos de divisão: 1 (2004)

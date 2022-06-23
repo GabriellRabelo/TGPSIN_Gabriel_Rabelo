@@ -1,0 +1,16 @@
+  _____           _ _                     _____                        
+ |_   _|         | (_)                   |  __ \                       
+   | |  _ __   __| |_  __ _ _ __   __ _  | |__) |_ _  ___ ___ _ __ ___ 
+   | | | '_ \ / _` | |/ _` | '_ \ / _` | |  ___/ _` |/ __/ _ \ '__/ __|
+  _| |_| | | | (_| | | (_| | | | | (_| | | |  | (_| | (_|  __/ |  \__ \
+ |_____|_| |_|\__,_|_|\__,_|_| |_|\__,_| |_|   \__,_|\___\___|_|  |___/
+
+O Indiana Pacers é um time americano de basquete profissional com sede em Indianápolis.
+Os Pacers competem na National Basketball Association (NBA) como um membro da Divisão Central da Conferência Leste.
+
+Ano de fundação: 1967
+Arena: Gainbridge Fieldhouse
+Presidente: Herbert Simon
+Cores do time: Azul marinho , Dourado , Prata e Branco
+Campeonatos: 3 (1970, 1972 e 1973)
+Titulos de divisão: 9 (1969, 1970, 1971, 1995, 1999, 2000, 2004, 2013 e 2014) 

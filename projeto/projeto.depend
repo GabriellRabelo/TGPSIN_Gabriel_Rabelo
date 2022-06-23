@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1653567540 source:c:\users\2221210\documents\gabriel rabelo psi\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.c>
+	"times.h"
+	"login.h"
+
+1653318015 c:\users\2221210\documents\gabriel rabelo psi\projeto\times.h
+
+1653318560 c:\users\2221210\documents\gabriel rabelo psi\projeto\login.h
+
+1655826764 source:c:\users\2221210\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.c>
+	"times.h"
+	"login.h"
+	<time.h>
+
+1655990715 c:\users\2221210\desktop\projeto\times.h
+	<locale.h>
+	"nets.h"
+	"celtics.h"
+	"knicks.h"
+	"philadelphia.h"
+	"raptors.h"
+	"warriors.h"
+	"clippers.h"
+
+1655478181 c:\users\2221210\desktop\projeto\login.h
+	<time.h>
+
+1655990040 c:\users\2221210\desktop\projeto\nets.h
+
+1655990040 c:\users\2221210\desktop\projeto\celtics.h
+
+1655990040 c:\users\2221210\desktop\projeto\knicks.h
+
+1655987058 c:\users\2221210\desktop\projeto\76ers.h
+
+1655990040 c:\users\2221210\desktop\projeto\philadelphia.h
+
+1655990040 c:\users\2221210\desktop\projeto\raptors.h
+
+1655990130 c:\users\2221210\desktop\projeto\warriors.h
+
+1655990881 c:\users\2221210\desktop\projeto\clippers.h
+

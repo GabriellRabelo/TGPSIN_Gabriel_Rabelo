@@ -1,0 +1,18 @@
+ __          __       _     _             _               __          ___                  _     
+ \ \        / /      | |   (_)           | |              \ \        / (_)                | |    
+  \ \  /\  / /_ _ ___| |__  _ _ __   __ _| |_ ___  _ __    \ \  /\  / / _ ______ _ _ __ __| |___ 
+   \ \/  \/ / _` / __| '_ \| | '_ \ / _` | __/ _ \| '_ \    \ \/  \/ / | |_  / _` | '__/ _` / __|
+    \  /\  / (_| \__ \ | | | | | | | (_| | || (_) | | | |    \  /\  /  | |/ / (_| | | | (_| \__ \
+     \/  \/ \__,_|___/_| |_|_|_| |_|\__, |\__\___/|_| |_|     \/  \/   |_/___\__,_|_|  \__,_|___/
+                                     __/ |                                                       
+                                    |___/                                                        
+
+O Washington Wizards é um time de basquete profissional americano com sede em Washington, D.C.
+Os Wizards competem na National Basketball Association (NBA) como membro da Divisão Sudeste da Conferência Leste.
+
+Ano de fundação: 1961
+Arena: Capital One Arena
+Presidente: Tommy Shepard
+Cores do time: Vermelho , Azul marinho , Prata e Branco
+Campeonatos: 1 (1978)
+titulos de divisão: 7 (1969, 1971, 1972, 1973, 1974, 1975 e 1979) 

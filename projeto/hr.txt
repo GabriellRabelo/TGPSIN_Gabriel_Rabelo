@@ -1,0 +1,16 @@
+  _    _                 _                _____            _        _       
+ | |  | |               | |              |  __ \          | |      | |      
+ | |__| | ___  _   _ ___| |_ ___  _ __   | |__) |___   ___| | _____| |_ ___ 
+ |  __  |/ _ \| | | / __| __/ _ \| '_ \  |  _  // _ \ / __| |/ / _ \ __/ __|
+ | |  | | (_) | |_| \__ \ || (_) | | | | | | \ \ (_) | (__|   <  __/ |_\__ \
+ |_|  |_|\___/ \__,_|___/\__\___/|_| |_| |_|  \_\___/ \___|_|\_\___|\__|___/
+
+O Houston Rockets é uma equipe profissional americana de basquetebol com sede em Houston, Texas.
+Os Rockets competem na National Basketball Association (NBA) como membros da Conferência Oeste, divisão sudoeste.
+
+Ano de fundação: 1967
+Arena: Toyota Center
+Presidente: Tad Brown
+Cores do time: Vermelho , Preto , Cinza , Antracite e Branco
+Campeonatos: 2 (1994 , 1995)
+Titulos de divisão: 8 (1977, 1986, 1993, 1994, 2015, 2018, 2019 e 2020)

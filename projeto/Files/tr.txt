@@ -1,0 +1,22 @@
+  _______                    _          _____             _                 
+ |__   __|                  | |        |  __ \           | |                
+    | | ___  _ __ ___  _ __ | |_ ___   | |__) |__ _ _ __ | |_ ___  _ __ ___ 
+    | |/ _ \| '__/ _ \| '_ \| __/ _ \  |  _  // _` | '_ \| __/ _ \| '__/ __|
+    | | (_) | | | (_) | | | | || (_) | | | \ \ (_| | |_) | || (_) | |  \__ \
+    |_|\___/|_|  \___/|_| |_|\__\___/  |_|  \_\__,_| .__/ \__\___/|_|  |___/
+                                                   | |                      
+                                                   |_|
+
+Os Toronto Raptors são um time de basquete profissional canadense com sua sede em Toronto, Ontário.
+Os Raptors competem na National Basketball Association (NBA) como um clube membro da Conferência Leste e Divisão do Atlântico
+sendo o unico time não americano na NBA.
+
+Ano de fundação: 1995
+Arena: Scotiabank Arena
+Presidente: Masai Ujiri
+Cores do time: Vermelho , Preto , Prata e Dourado
+Campeonatos: 1 (2019)
+Titulos de Divisão: 7 (2007, 2014, 2015, 2016, 2018, 2019,2020)
+ 
+
+                    

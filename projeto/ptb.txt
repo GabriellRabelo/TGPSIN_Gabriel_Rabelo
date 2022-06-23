@@ -1,0 +1,17 @@
+  _____           _   _                 _   _______        _ _   ____  _                        
+ |  __ \         | | | |               | | |__   __|      (_) | |  _ \| |                       
+ | |__) |__  _ __| |_| | __ _ _ __   __| |    | |_ __ __ _ _| | | |_) | | __ _ _______ _ __ ___ 
+ |  ___/ _ \| '__| __| |/ _` | '_ \ / _` |    | | '__/ _` | | | |  _ <| |/ _` |_  / _ \ '__/ __|
+ | |  | (_) | |  | |_| | (_| | | | | (_| |    | | | | (_| | | | | |_) | | (_| |/ /  __/ |  \__ \
+ |_|   \___/|_|   \__|_|\__,_|_| |_|\__,_|    |_|_|  \__,_|_|_| |____/|_|\__,_/___\___|_|  |___/
+                                                                                                
+
+O Portland Trail Blazers é um time de basquete da National Basketball Association (NBA) com sede na cidade de Portland, Oregon.
+O time compete na National Basketball Association (NBA) e é membro da divisão Noroeste da conferencia Oeste.
+
+Ano de fundação: 1970
+Arena: Moda Center
+Presidente: Dewayne Hankins
+Cores do time: Vermelho , Preto , Prata e Branco.
+Campeonatos: 1 (1977)
+Titulos de divisão: 6 (1978, 1991, 1992, 1999, 2015 e 2018)

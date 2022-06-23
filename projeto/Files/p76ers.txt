@@ -1,0 +1,19 @@
+  _____  _     _ _           _      _       _     _         ______ __                
+ |  __ \| |   (_) |         | |    | |     | |   (_)       |____  / /                
+ | |__) | |__  _| | __ _  __| | ___| |_ __ | |__  _  __ _      / / /_   ___ _ __ ___ 
+ |  ___/| '_ \| | |/ _` |/ _` |/ _ \ | '_ \| '_ \| |/ _` |    / / '_ \ / _ \ '__/ __|
+ | |    | | | | | | (_| | (_| |  __/ | |_) | | | | | (_| |   / /| (_) |  __/ |  \__ \
+ |_|    |_| |_|_|_|\__,_|\__,_|\___|_| .__/|_| |_|_|\__,_|  /_/  \___/ \___|_|  |___/
+                                     | |                                             
+                                     |_|
+
+Os Philadelphia 76ers são um time de basquete profissional americano com sua sede na area de metropolitana da Filadélfia.
+Os 76ers competem na National Basketball Association (NBA) como membro da Conferência Leste na Divisão do Atlântico.
+
+Ano de fundação: 1939
+Arena: Wells Fargo Center
+Cores do time: Vermelho , Azul e Branco
+Presidente: Josh Harris
+Campeonatos: 3 (1955 , 1967 e 1983)
+Titulos de divisão: 6 (1977, 1978, 1983, 1990, 2001, 2021)
+                                             

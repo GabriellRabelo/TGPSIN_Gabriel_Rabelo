@@ -1,0 +1,18 @@
+   _____ _     _                         ____        _ _     
+  / ____| |   (_)                       |  _ \      | | |    
+ | |    | |__  _  ___ __ _  __ _  ___   | |_) |_   _| | |___ 
+ | |    | '_ \| |/ __/ _` |/ _` |/ _ \  |  _ <| | | | | / __|
+ | |____| | | | | (_| (_| | (_| | (_) | | |_) | |_| | | \__ \
+  \_____|_| |_|_|\___\__,_|\__, |\___/  |____/ \__,_|_|_|___/
+                            __/ |                            
+                           |___/                             
+
+Os Chicago Bulls é um time de basquete profissional americano com sua sede em Chicago ,Illinois.
+Os Bulls competem na National Basketball Association (NBA) como um mebro da Divisão central da conferencia leste
+
+Ano de fundação: 1966
+Arena: United center
+Cores do time: Vermelho , Preto e Branco
+Presidente: Michael Andrew Reinsdorf
+Campeonatos: 6 (1991, 1992, 1993, 1996, 1997 e 1998)
+Titulos de divisão: 9 (1975, 1991, 1992, 1993, 1996, 1997, 1998, 2011 e 2012)
